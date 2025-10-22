@@ -31,7 +31,4 @@ https://github.com/user-attachments/assets/295eb4c9-377b-410e-b3fa-8f6049e4fa2b
 
 
 
-https://www.sourcecodester.com/php/14894/police-crime-record-management-system.html
-
-
 
